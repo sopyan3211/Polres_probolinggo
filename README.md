@@ -43,6 +43,7 @@ Polres Probolinggo
 </head>
 <body>
   <h1>Pengumuman Orang Hilang</h1>
+  <img src="Yoga.hilang.jpg" alt="Foto Yoga Ardiansyah">
   <p><span class="highlight">Nama:</span> Yoga Ardiansyah</p>
   <p><span class="highlight">Umur:</span> 22 tahun</p>
   <p><span class="highlight">Ciri-ciri:</span></p>
