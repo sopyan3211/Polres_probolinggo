@@ -1,1 +1,58 @@
-# Polres_probolinggo
+Polres Probolinggo 
+
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Pengumuman Orang Hilang</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #fffbe6;
+      color: #000;
+      padding: 30px;
+      max-width: 700px;
+      margin: auto;
+      border: 4px solid red;
+      border-radius: 15px;
+    }
+
+    h1 {
+      color: red;
+      font-size: 48px;
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    p, li {
+      font-size: 28px;
+      line-height: 1.6;
+    }
+
+    .highlight {
+      font-weight: bold;
+    }
+
+    ul {
+      padding-left: 30px;
+    }
+
+    em {
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+  <h1>Pengumuman Orang Hilang</h1>
+  <p><span class="highlight">Nama:</span> Yoga Ardiansyah</p>
+  <p><span class="highlight">Umur:</span> 22 tahun</p>
+  <p><span class="highlight">Ciri-ciri:</span></p>
+  <ul>
+    <li>Rambut hitam</li>
+    <li>Tinggi badan sekitar 169 cm</li>
+  </ul>
+  <p><span class="highlight">Terakhir terlihat:</span> di daerah Paiton, Kabupaten Probolinggo</p>
+  <p><span class="highlight">Mengendarai:</span> Motor Revo spek drag 201m</p>
+  <p><strong>Jika melihat atau mengetahui keberadaannya, segera hubungi Polsek setempat.</strong></p>
+  <p style="color:red;"><em>Hati-hati, beliau suka gigit jir!</em></p>
+</body>
+</html>
